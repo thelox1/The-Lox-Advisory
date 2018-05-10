@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## The Lox Advisory
 
-You can use the [editor on GitHub](https://github.com/thelox1/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Lox Advisory is a specialized group focused on helping incredible people do incredible things. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We focus on opportunities where founders, creators, inventors, and good people just need a little elbow grease to open a door here and there. 
 
 ### Markdown
 
